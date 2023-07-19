@@ -38,5 +38,3 @@ O Ignite Feed é um componente que simula o feed de uma rede social, onde é pos
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/TkVvRLD1fWzGKpvbk9mChk/Ignite-Feed-(Community)?type=design&node-id=0-1&mode=design&t=qSQgWYBJtNazXXU6-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
